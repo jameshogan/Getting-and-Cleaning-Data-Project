@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Getting and Cleaning Data - Course Project"
 author: "James Aaron Hogan"
@@ -19,3 +20,9 @@ The script "Run_Analysis.R" does the following:
 
 ##
 \
+=======
+Getting-and-Cleaning-Data-Project
+=================================
+
+Coursera Data Science Specialization - Getting and Cleaning Data with Jeff Leek
+>>>>>>> e42f24b70a9a1013198a834a37b7d14b8695721c
